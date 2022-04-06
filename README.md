@@ -2,7 +2,7 @@
 
 Site:
 
-http://localhost/wordpress/
+http://bruno-rocha.soukick.com.br/
 
 pdf:
 
