@@ -2,7 +2,7 @@
 
 Site:
 
-http://bruno-rocha.soukick.com.br/
+http://bruno-rocha.soukick.com.br/index.php/home/
 
 pdf:
 
