@@ -21,5 +21,5 @@ Habilidades
 ![portifolio_parte_3](https://user-images.githubusercontent.com/92698399/161989813-36d081bc-8fe2-4636-807e-a26d509c87ba.png)
 
 
-Foter
+Footer
 ![portifolio_parte_4](https://user-images.githubusercontent.com/92698399/161989916-9ff8e47b-aec3-4fd3-886e-e53e7a48942c.png)
